@@ -9,6 +9,8 @@
 ## **Phần 2 (Sửa lỗi):** Đề xuất quy trình thiết lập Hybrid Workflow cho Nam để từ nay về sau Nam có thể dùng Version History khôi phục code chỉ trong 1-click.
 
 ->  1 : mỗi khi làm xong một phần bài ,Nam hãy bấm pím Ctrl + S để máy tự đông up bài lên Onedrive hoặc gg drive
+
 ->  2 : khi này file bài của nam được up lên gg drive tránh mất hoặc máy đột ngột tắt nguồn
+
 ->  3 : Khi này nếu muốn tìm hoặc lấy file cũ Nam có thể bấm Version History để lấy bài cũ
 
